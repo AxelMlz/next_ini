@@ -47,6 +47,9 @@ importers:
       typescript:
         specifier: 5.5.2
         version: 5.5.2
+      ui:
+        specifier: link:@/app/ui
+        version: link:@/app/ui
       use-debounce:
         specifier: ^10.0.1
         version: 10.0.1(react@19.0.0-rc-f38c22b244-20240704)
